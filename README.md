@@ -31,6 +31,13 @@ This isn't just a PDF reader; it's an exploration of how high-performance docume
 
 ## 📸 Visual Showcase
 
+<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/4a1704a4-7a35-4650-9682-b59351519657" />
+<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/50443579-c6d6-4de1-88f2-b372172eb4a2" />
+<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/729e086f-040c-43bd-b169-9afbaa46d918" />
+
+
+
+
 //TODO
 
 
