@@ -28,7 +28,6 @@ This isn't just a PDF reader; it's an exploration of how high-performance docume
 
 ---
 
-
 ## 📸 Visual Showcase
 
 <p align="center">
